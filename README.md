@@ -46,5 +46,3 @@ Challenge from **Frontend Mentor**
 
 ## 👤 Author
 Gayatri
-GitHub: [https://github.com/your-username](https://github.com/your-username)
-LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
